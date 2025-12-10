@@ -5,7 +5,6 @@
 
 - 🔭 I’m ITMO student 
 - 🌱 I’m currently learning how to start doing a laboratory not the day before the deadline 
-- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help to learn how to play tennis better
 - 📫 How to reach me:
 -      gerfurt.maya@gmail.com
